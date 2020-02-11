@@ -17,3 +17,10 @@ function strikeThrough(){
 }
 strikeThrough()
 
+function removelast(){
+    const list = document.querySelector('ul');
+
+    list.removeChild(list.lastElementChild)
+}
+removelast()
+removelast()

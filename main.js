@@ -29,3 +29,8 @@ function addArgList (element) {
 
 const list = document.querySelector('#arguments').appendChild(element);
 }
+const panCakes = document.createElement('img')
+panCakes.src = "https://cdn3.vectorstock.com/i/1000x1000/81/77/pancakes-with-berries-and-honey-icon-cartoon-vector-19548177.jpg"
+function makeImg30(img){
+    img.style.height
+}

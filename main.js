@@ -24,3 +24,8 @@ function removelast(){
 }
 removelast()
 removelast()
+
+function addArgList (element) {
+
+const list = document.querySelector('#arguments').appendChild(element);
+}
